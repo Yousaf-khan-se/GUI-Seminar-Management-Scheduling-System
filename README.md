@@ -11,7 +11,7 @@ This project isn't just about scheduling; it's about software engineering princi
 * **Conflict Resolution Algorithms:** Logic to detect overlapping schedules where the same room is booked or the same attendee is required in two places at once.
 
 
-![MVP Diagram]([[Image of Model-View-Presenter Architecture Diagram]](https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTpyq4XLmYAOJ8TW2--tw0taMSp9kBpJHa_CHSJLpJOG4W4WLJBZmfQcNgsWfbb-rCy4R5DRQzS1_xQFwHctcrepwWJUftj-LlwOjBgZjW8rAlzzuQ))
+![Image of Model-View-Presenter Architecture Diagram](https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTpyq4XLmYAOJ8TW2--tw0taMSp9kBpJHa_CHSJLpJOG4W4WLJBZmfQcNgsWfbb-rCy4R5DRQzS1_xQFwHctcrepwWJUftj-LlwOjBgZjW8rAlzzuQ)
 
 ---
 
